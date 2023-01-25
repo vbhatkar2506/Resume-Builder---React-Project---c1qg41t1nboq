@@ -1,3 +1,20 @@
+Resume Builder
+
+1. You will be building a Resume Builder using HTML, CSS, JavaScript and React
+(Read More)
+2. Project Guidelines: This would help you get a direction in terms of what all dimensions should be covered in your project.
+3. List of Features to be made:
+
+A homepage
+
+Input form
+
+Template selection functionality
+
+Preview and Download functionality
+
+Save and Continue Editing functionality
+
 # Resume Builder
 
 ```javascript
